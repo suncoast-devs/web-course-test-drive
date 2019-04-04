@@ -15,6 +15,7 @@ body {
   border: 2px pink solid;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .purple-background {
@@ -37,4 +38,5 @@ article {
   background-color: aqua;
   margin: 1rem;
   padding: 1rem;
+  width: 40%;
 }
